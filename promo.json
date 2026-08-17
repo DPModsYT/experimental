@@ -1,8 +1,11 @@
+{
   "promotion": {
-      "enabled": false,
-      "title": "Exclusive Offer",
-      "description": "Join our official channel for latest updates & premium keys",
+      "enabled": true,
+      "title": "Exclusive Offer!",
+      "description": "Join our official channel for latest updates & premium keys.",
       "image_url": "https://4kwallpapers.com/images/walls/thumbs_3t/4942.png",
       "link": "https://t.me/DPModsYT",
-      "button_text": "Join Channel"
+      "button_text": "Join Channel",
+      "auto_close_seconds": 10
   }
+}
