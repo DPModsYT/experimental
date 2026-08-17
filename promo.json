@@ -1,6 +1,6 @@
 {
   "promotion": {
-      "enabled": true,
+      "enabled": false,
       "promo_id": 1,
       "title": "Exclusive Offer!",
       "description": "Join our official channel for latest updates & premium keys.",
